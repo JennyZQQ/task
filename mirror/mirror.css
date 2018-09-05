@@ -1,0 +1,38 @@
+@charset "utf-8";
+*{
+	margin: 0;
+	padding: 0;
+}
+.main{
+	background-color: rgb(128,203,212);
+	width: 100%;
+	height: 100%;
+}
+.back{
+	display: block;
+	padding: 30px 20px;
+	width: 90px;
+}
+.logo{
+	display: block;
+	margin: 0 auto;
+	width: 300px;
+	padding: 200px;
+
+}
+.introduce{
+	font-size: 30px;
+	width:700px;
+	margin:0 auto;
+	color: #fff;
+}
+.bottom{
+	width: 100%;
+	padding-top:300px;
+	display:flex;
+	justify-content:space-between;
+}
+span,img{
+	display: block;
+	margin:30px;
+}
